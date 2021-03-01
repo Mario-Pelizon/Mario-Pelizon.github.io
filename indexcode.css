@@ -1,5 +1,7 @@
-img{ 
-   width: 200px;
+img.eu {
+    display: block;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 body {
