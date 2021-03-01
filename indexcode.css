@@ -14,8 +14,8 @@ body {
 }
 .menu {
     font-size: 25px;
-    border-top: 1px solid;
-    border-bottom: 1px solid;
+    border-top: 5px solid;
+    border-bottom: 5px solid;
     padding: 10px;
     text-align: center;
 }
