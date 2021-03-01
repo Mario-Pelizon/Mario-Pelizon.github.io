@@ -23,13 +23,10 @@ h1{
     font-size: 25px;
     text-align: center;
 }
-h2{
-    text-align: center;
-}
-P{
-    text-shadow: 2px 2px 5px black;
+p{
+    ext-shadow: 3px 3px 5px black;
     font-family: serif;
-    font-size: 40px;
+    font-size: 30px;
     text-align: center;
 }
 .ul il{
