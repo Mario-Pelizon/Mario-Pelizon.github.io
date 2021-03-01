@@ -1,9 +1,11 @@
+*{
+    text-align: center;
+}
 img.eu {
     display: block;
     margin-left: 10%;
     margin-right: 10%;
 }
-
 body {
     background-color: #32dbd3;
 }
