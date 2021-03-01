@@ -1,5 +1,5 @@
-p{
-   margin: 0 40px;
+*{ 
+   width: 200px;
 }
 
 body {
@@ -7,6 +7,7 @@ body {
 }
 
 .menu a{
+    margin: 0 40px;
     font-family: helvetica;
     text-decoration: none;
     color: #fff;
@@ -23,14 +24,3 @@ body {
     text-align: center;
 }
 
-h1{
-   margin: 0 40px;
-}
-
-.ol{
-   margin: 0 40px;
-}
-
-.ul{
-   margin: 0 40px;
-}
