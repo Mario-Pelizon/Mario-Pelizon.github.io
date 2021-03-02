@@ -1,14 +1,9 @@
-img.eu {
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-img.dance {
-    img-align: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
+
 body {
     background-color: #ff3333;
 }
