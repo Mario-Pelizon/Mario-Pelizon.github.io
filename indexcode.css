@@ -37,4 +37,10 @@ p{
     text-shadow: 1px 1px 3px white;
     font-size: 25px;
 }
+.list ol{
+    margin-left: 600px;
+    margin-right: 300px;
+    text-shadow: 1px 1px 3px white;
+    font-size: 25px;
+}
 
