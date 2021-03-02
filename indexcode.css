@@ -31,11 +31,11 @@ p{
     font-size: 30px;
     text-align: center;
 }
-.ul{
+.ul li{
      font-size: 50px;
       text-align: center;
 }
-.ol{
+.ol li{
         font-size: 50px;
       text-align: center;
 }
