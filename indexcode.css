@@ -31,15 +31,10 @@ p{
     font-size: 30px;
     text-align: center;
 }
-.list ul{
+.list {
     margin-left: 460px;
     margin-right: 300px;
     text-shadow: 1px 1px 3px white;
     font-size: 25px;
 }
-.list ol{
-    margin-left: 300px;
-    margin-right: 400px;
-    text-shadow: 1px 1px 3px white;
-    font-size: 25px;
-}
+
