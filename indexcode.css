@@ -31,16 +31,10 @@ p{
     font-size: 30px;
     text-align: center;
 }
-ul {
-     text-shadow: 3px 3px 5px white;
-     font-size: 25px;
-     text-align: center;
-}
-
 .list {
     margin-left: 500px;
     margin-right: 500px;
-    text-shadow: 1px 1px 4px white;
+    text-shadow: 1px 1px 3px white;
     font-size: 25px;
 }
 
